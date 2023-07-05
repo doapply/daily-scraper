@@ -7,6 +7,6 @@
     "@dailydotdev/pulumi-common": "^1.7.2",
     "@pulumi/gcp": "^5.26.0",
     "@pulumi/kubernetes": "^3.10.1",
-    "@pulumi/pulumi": "^3.18.1"
+    "@pulumi/pulumi": "^3.74.0"
   }
 }
